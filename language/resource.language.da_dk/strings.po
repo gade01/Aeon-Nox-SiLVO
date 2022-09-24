@@ -631,7 +631,7 @@ msgstr "Plakat"
 
 msgctxt "#31153"
 msgid "Disable views"
-msgstr ""
+msgstr "Deaktiver visninger"
 
 msgctxt "#31154"
 msgid "Show Artist Slideshow when playing music"
