@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'gade01/skin.aeon.nox.silvo'
+    if: github.repository == 'gade01/Aeon-Nox-SiLVO'
     runs-on: ubuntu-latest
 
     steps:
