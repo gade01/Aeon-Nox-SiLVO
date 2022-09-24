@@ -475,7 +475,7 @@ msgstr "Film skrevet af"
 
 msgctxt "#31114"
 msgid "More from"
-msgstr ""
+msgstr "Mere fra"
 
 msgctxt "#31115"
 msgid "Similar TV shows"
